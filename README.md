@@ -55,7 +55,7 @@ Voici la playlist avec laquelle je me forme
     <b>Résumé :</b> Initiation aux variables, aux fonctions et à la structure des nœuds dans Godot 4.
   </p>
 
-  <a href="./formations/details-video-01.md">
+  <a href="./formations/details-01.md">
     <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
   </a>
 </div>
