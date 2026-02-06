@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="image_d_01/trello.png" width="100%" alt="Étape 1">
+      <img src="image_d_01/trello.gif" width="100%" alt="Étape 1">
     </td>
     <td>
       <h3>🔍 1. [Titre Étape 1]</h3>
