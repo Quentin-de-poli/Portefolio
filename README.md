@@ -1,8 +1,8 @@
-# Salut ! Moi c'est [Ton Prénom/Pseudo]
+# Salut ! Moi c'est Quentin
 
-### **Développeur [Ta Spécialité : ex. Fullstack / Data / Mobile] passionné par la création de solutions [ton adjectif : ex. élégantes / performantes / innovantes].**
+### **Développeur débutant de jeux vidéo passionné par la création de nouvelles experiences.**
 
-J'aime transformer des idées complexes en code simple et efficace. Quand je ne suis pas en train de coder, je [ta passion rapide : ex. explore de nouvelles technos / fais du café de spécialité / joue aux échecs].
+Ce que j'aime dans cette création c'est transformer mes idées (complexes ou pas) en code et d'essayer de nouvelles mechaniques. Quand je ne code pas je joue au jeux vidéo, je sort avec des potes, je regarde des film/séries, etc... .
 
 ---
 
