@@ -6,19 +6,22 @@ Ce que j'aime dans cette création c'est transformer mes idées (complexes ou pa
 
 ---
 
-##  Ma Boîte à Outils
+##  Ma Boîte à Outils 
 
 | Secteur | Technologies |
 | --- | --- |
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, Python (FastAPI), PostgreSQL |
-| **Outils** | Docker, Git, AWS, Vercel |
+| **game dev** | Godot, GDScript |
+| **Logic & Scripting** | Python |
+| **Développement Web** | HTML5, CSS3, JavaScript, JSON |
+|**Outils & Pipeline**| Git, VS Code|
 
 ---
 
-##  Mes Projets Phares
+##  Ma formation
 
-Voici une sélection de mes travaux les plus récents :
+Je n'ai pas encore de projet de jeux, je me forme encore, mais a la place des mes prjet je vous propose de voir ma progression :
+
+je me forme avec cette playlist [Godot Univerity](https://youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&si=HwFNG5ysS0ujQHSH)
 
 ###  [Nom du Projet 1]
 
