@@ -33,13 +33,13 @@ Voici la playlist avec laquelle je me forme
 <br>
 
 <div align="center">
-  <h3>🎬 Titre de la vidéo : Les bases du GDScript</h3>
+  <h3>Making a Game from Start to Finish ( Tutorial)</h3>
 
   <table align="center">
     <tr>
       <td>
-        <a href="URL_DE_LA_VIDEO">
-          <img src="images/godot-university.png" width="250" alt="Thumbnail">
+        <a href="[URL_DE_LA_VIDEO](https://youtu.be/bP9zQyoYP28?si=n7lHevLJ4Sax-Tvw)">
+          <img src="image/g1.png" width="250" alt="Thumbnail">
         </a>
       </td>
       <td align="left" valign="middle">
@@ -52,7 +52,7 @@ Voici la playlist avec laquelle je me forme
   </table>
 
   <p>
-    <b>Résumé :</b> Initiation aux variables, aux fonctions et à la structure des nœuds dans Godot 4.
+    <b>Résumé :</b> Présententation de comment créer un jeux de a à z, ce n'est pas un tuto mais une demonstration pour montrer a quoi s'attendre 
   </p>
 
   <a href="./formations/details-01.md">
