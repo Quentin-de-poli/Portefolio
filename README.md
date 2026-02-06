@@ -21,7 +21,7 @@ Ce que j'aime dans cette création c'est transformer mes idées (complexes ou pa
 
 Je n'ai pas encore de projet de jeux, je me forme encore, mais a la place des mes prjet je vous propose de voir ma progression :
 
-je me forme avec cette playlist [[Godot Univerity](./images/"Godot%20university.png)](https://youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&si=HwFNG5ysS0ujQHSH)
+je me forme avec cette playlist [![Godot Univerity](./images/"Godot%20university.png)](https://youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&si=HwFNG5ysS0ujQHSH)
 
 ###  [Nom du Projet 1]
 
