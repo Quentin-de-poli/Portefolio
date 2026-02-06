@@ -74,7 +74,7 @@ Voici la playlist avec laquelle je me forme
     <tr>
       <td>
         <a href="https://youtu.be/LOhfqjmasi0?si=D0QVXvouRNT0YvT9">
-          <img src="image/g2.png" width="250" alt="Thumbnail">
+          <img src="image/g2.webp" width="250" alt="Thumbnail">
         </a>
       </td>
       <td align="left" valign="middle">
