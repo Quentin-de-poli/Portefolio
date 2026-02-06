@@ -27,7 +27,7 @@
       <p><b>Ce que j'ai appris :</b> Concept technique n°2 (ex: GDScript).</p>
     </td>
     <td width="50%">
-      <img src="./image_d_01/etape2.webp" width="100%" alt="Étape 2">
+      <img src="GIF/blender.gif" width="100%" alt="Étape 2">
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./image_d_01/etape3.webp" width="100%" alt="Étape 3">
+      <img src="GIF/godot.gif" width="100%" alt="Étape 3">
     </td>
     <td>
       <h3>🛠️ 3. [Titre Étape 3]</h3>
@@ -53,7 +53,7 @@
       <p><b>Ce que j'ai appris :</b> Conclusion sur ce module.</p>
     </td>
     <td width="50%">
-      <img src="./image_d_01/etape4.webp" width="100%" alt="Étape 4">
+      <img src="GIF/gdscript.gif" width="100%" alt="Étape 4">
     </td>
   </tr>
 </table>
