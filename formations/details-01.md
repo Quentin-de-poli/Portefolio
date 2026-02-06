@@ -1,4 +1,4 @@
-<h1 align="center">🎬 Analyse Technique : [Nom de la Vidéo]</h1>
+<h1 align="center">Création d'un jeu du début à la fin (Tutoriel)</h1>
 
 <p align="center">
   <b>Formation :</b> Godot University | <b>Dossier source :</b> image_d_01
@@ -12,9 +12,8 @@
       <img src="GIF/trello.gif" width="100%" alt="Étape 1">
     </td>
     <td>
-      <h3>🔍 1. [Titre Étape 1]</h3>
-      <p><b>Ce que j'ai vu :</b> Explication de la séquence vidéo.</p>
-      <p><b>Ce que j'ai appris :</b> Concept technique n°1.</p>
+      <h3> Trello : </h3>
+      <p>Ici Lukky(le présentateur) nous présente Trello il l'utilise pour s'organiser avec des case : à faire, fait, bloqué, etc... pour avoir les idées claires dans l'avancement du projet.</p>
     </td>
   </tr>
 </table>
@@ -22,9 +21,8 @@
 <table>
   <tr>
     <td>
-      <h3>⚙️ 2. [Titre Étape 2]</h3>
-      <p><b>Ce que j'ai vu :</b> Analyse de la mécanique montrée.</p>
-      <p><b>Ce que j'ai appris :</b> Concept technique n°2 (ex: GDScript).</p>
+      <h3> blender </h3>
+      <p>Lukky survole blender, un logiciel 3D pour créer ses assets, ici ce n'est pas un tuto ( comme toute la vidéo en fait) il nous montre comme cela se passe pour créer des assets 3D</p>
     </td>
     <td width="50%">
       <img src="GIF/blender.gif" width="100%" alt="Étape 2">
