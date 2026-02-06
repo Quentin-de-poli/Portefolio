@@ -34,6 +34,8 @@ Voici la playlist avec laquelle je me forme
 
 <br>
 
+<!--vidéo 1-->
+
 <div align="center">
   <h3>Making a Game from Start to Finish ( Tutorial)</h3>
 
@@ -62,3 +64,36 @@ Voici la playlist avec laquelle je me forme
   </a>
 </div>
 <hr>
+
+<!--vidéo 2-->
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://youtu.be/LOhfqjmasi0?si=D0QVXvouRNT0YvT9">
+          <img src="image/g2.png" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière mise à jour : 06/02/2026</i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> Apprend à se familiariser avec godot et le vocabulaire de la programation de jeux vidéo en créeant un petit jeux de plateforme en 2D
+  </p>
+
+  <a href="./formations/details-02.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+
