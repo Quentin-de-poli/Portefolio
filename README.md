@@ -40,7 +40,7 @@ Voici la playlist avec laquelle je me forme
   <table align="center">
     <tr>
       <td>
-        <a href="(https://youtu.be/bP9zQyoYP28?si=n7lHevLJ4Sax-Tvw)">
+        <a href="https://youtu.be/bP9zQyoYP28?si=n7lHevLJ4Sax-Tvw">
           <img src="image/g1.png" width="250" alt="Thumbnail">
         </a>
       </td>
