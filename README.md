@@ -30,6 +30,8 @@ Voici la playlist avec laquelle je me forme
 </a>
 </p>
 
+** voici donc ma progression sur chacunes des vidéo de la playlist
+
 <br>
 
 <div align="center">
