@@ -21,10 +21,11 @@ Ce que j'aime dans cette création c'est transformer mes idées (complexes ou pa
 
 Je n'ai pas encore de projet de jeux, je me forme encore, mais a la place des mes prjet je vous propose de voir ma progression :
 
+<p align= "center">
 <a href="https://youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&si=HwFNG5ysS0ujQHSH">
    <img src="image/godot-university.png" width="500" alt="Formation Godot University">
 </a>
-
+</p>
 
 > *Une description courte et percutante (1 phrase) sur le problème que tu as résolu.*
 
