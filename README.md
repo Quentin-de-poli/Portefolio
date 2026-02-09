@@ -59,7 +59,7 @@ Voici la playlist avec laquelle je me forme
     <b>Résumé :</b> Présententation de comment créer un jeux de a à z, ce n'est pas un tuto mais une demonstration pour montrer a quoi s'attendre 
   </p>
 
-  <a href="./formations/details-01.md">
+  <a href="./formations/details-01.html">
     <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
   </a>
 </div>
@@ -90,7 +90,7 @@ Voici la playlist avec laquelle je me forme
     <b>Résumé :</b> Apprend à se familiariser avec godot et le vocabulaire de la programation de jeux vidéo en créeant un petit jeux de plateforme en 2D
   </p>
 
-  <a href="./formations/details-02.md">
+  <a href="./formations/details-02.html">
     <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
   </a>
 </div>
