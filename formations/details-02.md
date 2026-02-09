@@ -1,7 +1,7 @@
-<h1 align="center">Création d'un jeu du début à la fin (Tutoriel)</h1>
+<h1 align="center">How to make a Video Game - Godot Beginner Tutorial</h1>
 
 <p align="center">
-  <b>Formation :</b> Godot University | <b>Dossier source :</b> image_d_01
+  <b>Formation :</b> Godot University | <b>Dossier source :</b> image_d_02
 </p>
 
 ---
@@ -13,7 +13,7 @@
     </td>
     <td>
       <h3> Les assets : </h3>
-      <p>Ici Lukky (le présentateur) nous présente Trello. Il l’utilise pour s’organiser avec des cases : "à faire", "fait", "bloqué", etc., pour avoir les idées claires dans l’avancement du projet.</p>
+      <p>Dans cette partie on nous apprend les différents types d'assets et qu'est ce qu'ils représentent</p>
     </td>
   </tr>
 </table>
@@ -21,8 +21,8 @@
 <table>
   <tr>
     <td>
-      <h3> blender : </h3>
-      <p>Lukky survole Blender, un logiciel 3D pour créer ses assets. Ici, ce n’est pas un tuto (comme toute la vidéo en fait), il nous montre comment cela se passe pour créer des assets 3D.</p>
+      <h3> Comment fonctionne godot ? </h3>
+      <p>On nous explique comment fonctionne Godot a partir de Nodes </p>
     </td>
     <td width="50%">
       <img src="image_d_02/hwg.gif" width="100%" alt="Étape 2">
@@ -36,8 +36,8 @@
       <img src="image_d_02/player1.0.gif" width="100%" alt="Étape 3">
     </td>
     <td>
-      <h3>Godot : </h3>
-      <p>C’est ici qu’on entre dans le vif du sujet : Godot, un moteur de jeu pour débutant. Ici, on voit à quoi il ressemble, comment faire un menu, coder les éléments de jeu, créer l’environnement 3D, etc. En bref, ici on voit comment Godot est utilisé par les pros !</p>
+      <h3> Le joueur 1.0 : </h3>
+      <p> On commence la création du jeu, pour cela on créé le personage que le joueur va incarner, (on va l'appeller "joueur" c'est plus rapide) on lui ajoute une animation  un hitbox, des méchaniques de saut de déplacement et pour l'instant c'est tout ! </p>
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> La construction du monde 1.0 :  </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> Les plateformes : </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -69,7 +69,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> les Collectibles : </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> La mort </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -93,7 +93,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> La construction du monde 2.0 :  </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -105,7 +105,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> Les ennemis </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -117,7 +117,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> Le joueur 2.0 :  </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -129,7 +129,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> Ajouter du texte : </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -141,7 +141,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> Créer un score : </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -153,7 +153,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3> Ajouter du son </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
@@ -165,7 +165,7 @@
 <table>
   <tr>
     <td>
-      <h3>GDScript : </h3>
+      <h3>Exporter le projet : </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
