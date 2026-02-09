@@ -6,6 +6,8 @@
 
 ---
 
+<!--case 1-->
+
 <table>
   <tr>
     <td width="50%">
@@ -17,6 +19,8 @@
     </td>
   </tr>
 </table>
+
+<!--case 2-->
 
 <table>
   <tr>
@@ -30,6 +34,8 @@
   </tr>
 </table>
 
+<!--case 3-->
+
 <table>
   <tr>
     <td width="50%">
@@ -41,6 +47,8 @@
     </td>
   </tr>
 </table>
+
+<!--case 4-->
 
 <table>
   <tr>
