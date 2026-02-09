@@ -6,6 +6,8 @@
 
 ---
 
+<!--case 1-->
+
 <table>
   <tr>
     <td width="50%">
@@ -17,6 +19,8 @@
     </td>
   </tr>
 </table>
+
+<!--case 2-->
 
 <table>
   <tr>
@@ -30,6 +34,8 @@
   </tr>
 </table>
 
+<!--case 3-->
+
 <table>
   <tr>
     <td width="50%">
@@ -41,6 +47,8 @@
     </td>
   </tr>
 </table>
+
+<!--case 4-->
 
 <table>
   <tr>
@@ -54,17 +62,21 @@
   </tr>
 </table>
 
+<!--case 5-->
+
 <table>
   <tr>
+    <td width="50%">
+      <img src="image_d_02/plateform.gif" width="100%" alt="Étape 4">
+    </td>
     <td>
       <h3> Les plateformes : </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
-    <td width="50%">
-      <img src="image_d_02/plateform.gif" width="100%" alt="Étape 4">
-    </td>
   </tr>
 </table>
+
+<!--case 6-->
 
 <table>
   <tr>
@@ -78,17 +90,21 @@
   </tr>
 </table>
 
+<!--case 7-->
+
 <table>
   <tr>
+    <td width="50%">
+      <img src="image_d_02/dying1.0.gif" width="100%" alt="Étape 4">
+    </td>
     <td>
       <h3> La mort </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
-    <td width="50%">
-      <img src="image_d_02/dying1.0.gif" width="100%" alt="Étape 4">
-    </td>
   </tr>
 </table>
+
+<!--case 8-->
 
 <table>
   <tr>
@@ -102,17 +118,21 @@
   </tr>
 </table>
 
+<!--case 9-->
+
 <table>
   <tr>
+    <td width="50%">
+      <img src="image_d_02/ennemy.gif" width="100%" alt="Étape 4">
+    </td>
     <td>
       <h3> Les ennemis </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
-    <td width="50%">
-      <img src="image_d_02/ennemy.gif" width="100%" alt="Étape 4">
-    </td>
   </tr>
 </table>
+
+<!--case 9-->
 
 <table>
   <tr>
@@ -126,17 +146,21 @@
   </tr>
 </table>
 
+<!--case 10-->
+
 <table>
   <tr>
+    <td width="50%">
+      <img src="image_d_02/text.gif" width="100%" alt="Étape 4">
+    </td>
     <td>
       <h3> Ajouter du texte : </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
-    <td width="50%">
-      <img src="image_d_02/text.gif" width="100%" alt="Étape 4">
-    </td>
   </tr>
 </table>
+
+<!--case 11-->
 
 <table>
   <tr>
@@ -150,17 +174,21 @@
   </tr>
 </table>
 
+<!--case 12-->
+
 <table>
   <tr>
+    <td width="50%">
+      <img src="image_d_02/audio.gif" width="100%" alt="Étape 4">
+    </td>
     <td>
       <h3> Ajouter du son </h3>
       <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
-    <td width="50%">
-      <img src="image_d_02/audio.gif" width="100%" alt="Étape 4">
-    </td>
   </tr>
 </table>
+
+<!--case 13-->
 
 <table>
   <tr>
