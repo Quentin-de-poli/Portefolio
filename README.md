@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/ma-banniere-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="images/ma-banniere-light.png">
-  <img alt="Ma Bannière" src="images/ma-banniere-default.png">
-</picture>
-
 # Salut ! Moi c'est Quentin
 
 ### **Développeur débutant de jeux vidéo passionné par la création de nouvelles experiences.**
