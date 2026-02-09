@@ -219,7 +219,7 @@
 ---
 <p align="center"> J'aimerais préciser quand meme que cette vidéo est ici a but démonstratif et qu'en aucun cas elle me permet de créer un jeux a moi seul, j'en serait bloqué a des méchaniques de 1990. cette vidéo nous familiarise a comment utiliser godot et a en comprendre le vocabulaire, en plus au final on a un petit jeu comme récompense : </p>
 
-[Mon jeu](https://Quentin-de-poli.github.io/formations/mon-jeu/)
+[Mon jeu](https://Quentin-de-poli.github.io/formations/comment faire un jeux/)
   
 <p align="center">
   <a href="../README.md">
