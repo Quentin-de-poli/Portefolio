@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Analyse Technique - Godot University</title>
-    <style>
-        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: auto; padding: 20px; }
-        table { width: 100%; border-collapse: collapse; margin-bottom: 30px; }
-        td { padding: 15px; }
-        img { border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        h1, h3 { color: #2c3e50; }
-    </style>
-</head>
-<body>
-
 <h1 align="center">How to make a Video Game - Godot Beginner Tutorial</h1>
 
 <p align="center">
