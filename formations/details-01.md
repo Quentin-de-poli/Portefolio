@@ -6,8 +6,6 @@
 
 ---
 
-<!--case 1-->
-
 <table>
   <tr>
     <td width="50%">
@@ -15,26 +13,22 @@
     </td>
     <td>
       <h3> Trello : </h3>
-      <p>Ici Lukky (le présentateur) nous présente Trello. Il l’utilise pour s’organiser avec des cases : "à faire", "fait", "bloqué", etc., pour avoir les idées claires dans l’avancement du projet.</p>
+      <p>Ici Lukky (le présentateur) nous présente Trello. Il l’utilise pour s’organiser avec des colonnes : "à faire", "fait", "bloqué", etc., afin d’avoir les idées claires sur l’avancement du projet.</p>
     </td>
   </tr>
 </table>
 
-<!--case 2-->
-
 <table>
   <tr>
     <td>
-      <h3> blender : </h3>
-      <p>Lukky survole Blender, un logiciel 3D pour créer ses assets. Ici, ce n’est pas un tuto (comme toute la vidéo en fait), il nous montre comment cela se passe pour créer des assets 3D.</p>
+      <h3> Blender : </h3>
+      <p>Lukky survole Blender, un logiciel 3D pour créer ses assets. Ici, ce n’est pas un tuto (comme pour l’ensemble de la vidéo d'ailleurs), il nous montre comment se déroule la création d’assets 3D.</p>
     </td>
     <td width="50%">
       <img src="GIF/blender.gif" width="100%" alt="Étape 2">
     </td>
   </tr>
 </table>
-
-<!--case 3-->
 
 <table>
   <tr>
@@ -43,12 +37,10 @@
     </td>
     <td>
       <h3>Godot : </h3>
-      <p>C’est ici qu’on entre dans le vif du sujet : Godot, un moteur de jeu pour débutant. Ici, on voit à quoi il ressemble, comment faire un menu, coder les éléments de jeu, créer l’environnement 3D, etc. En bref, ici on voit comment Godot est utilisé par les pros !</p>
+      <p>C’est ici qu’on entre dans le vif du sujet : Godot, un moteur de jeu pour débutants. On y voit à quoi il ressemble, comment faire un menu, coder les éléments de jeu, créer l’environnement 3D, etc. En bref, on y découvre comment Godot est utilisé par les pros !</p>
     </td>
   </tr>
 </table>
-
-<!--case 4-->
 
 <table>
   <tr>
@@ -63,7 +55,7 @@
 </table>
 
 ---
-
+<p align="center"> J'ai beaucoup apprécié cette vidéo car elle montre comment un développeur construit un petit jeu de A à Z. Elle n'est pas là pour que l'on reproduise quelque chose précisément, mais plutôt pour nous offrir une vue d'ensemble. </p>
 <p align="center">
   <a href="../README.md">
     <img src="https://img.shields.io/badge/⬅️_REVENIR_AU_PORTEFOLIO-333333?style=for-the-badge" />
