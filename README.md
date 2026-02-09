@@ -1,6 +1,3 @@
-layout: page
-title: "Portefolio"
-permalink: [/URL-PATH](https://quentin-de-poli.github.io/Portefolio/)
 
 # Salut ! Moi c'est Quentin
 
