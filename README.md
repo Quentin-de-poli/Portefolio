@@ -1,3 +1,7 @@
+layout: page
+title: "Portefolio"
+permalink: [/URL-PATH](https://quentin-de-poli.github.io/Portefolio/)
+
 # Salut ! Moi c'est Quentin
 
 ### **Développeur débutant de jeux vidéo passionné par la création de nouvelles experiences.**
