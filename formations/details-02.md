@@ -54,7 +54,7 @@
   <tr>
     <td>
       <h3> La construction du monde 1.0 :  </h3>
-      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+      <p>Ici on apprend a utiliser la tilemap, très utile pour construire un monde et très ludique, il suffit d'avoirpour chauques types de blocs constituant notre monde une case pour les placer en illimité /p>
     </td>
     <td width="50%">
       <img src="image_d_02/worldbuilding1.0.gif" width="100%" alt="Étape 4">
@@ -71,7 +71,7 @@
     </td>
     <td>
       <h3> Les plateformes : </h3>
-      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+      <p>Les plateformes sont vraiment simples a faire, et efficace, pourquoi ? Parce quelle reprennent le système du joueur, c'est une "scene" donc on a plus de liberté que pour la tilemap et on peut y affecter du code pour pouvoir passer par en dessous de la plateforme par exemple</p>
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@
   <tr>
     <td>
       <h3> les Collectibles : </h3>
-      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+      <p>Les collectibles sont important en jeux surtout ici car c'est le but principal de ce projet, on récupeer des pieces, on appprend a les faires disparaitres et a augmenter un compteur quand le joueur passe sur une d'elle, on apprend aussi a les changer de palier de collision pour pas que les plateformes mouvantres "rammasent" aussi les pieces </p>
     </td>
     <td width="50%">
       <img src="image_d_02/pickups.gif" width="100%" alt="Étape 4">
@@ -99,7 +99,7 @@
     </td>
     <td>
       <h3> La mort </h3>
-      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+      <p>La mort est la méchanique principale de presque tout les jeux au monde donc il est normal qu'on apprennent a en faire une ici aussi n'est ce pas ? Pour ca on va metre une hitbox sous notre monde comme ça quand le joueur tombera dans un trou il va toucher cette hitbox, on a juste a lui assigenr le code de nous faire réaparaitre et de reset le monde et le tour est joué ! </p>
     </td>
   </tr>
 </table>
@@ -110,7 +110,7 @@
   <tr>
     <td>
       <h3> La construction du monde 2.0 :  </h3>
-      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+      <p>Ici c'est une petite étape détente, on se sert de ce qu'on a appris pour faire notre prorpe niveaux avec nos scene, nos scripts, nos tilemaps. MAIS, on apprend aussi a fairte un arriere plan, qui se résume a créer une deuxieme tilemap qu'on posisione en arriere plan, ça peut etre pratique si on veux faire des passsages secrets ;) </p>
     </td>
     <td width="50%">
       <img src="image_d_02/worldbuilding2.0.gif" width="100%" alt="Étape 4">
