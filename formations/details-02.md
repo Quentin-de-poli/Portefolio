@@ -1,1 +1,183 @@
-zef
+<h1 align="center">Création d'un jeu du début à la fin (Tutoriel)</h1>
+
+<p align="center">
+  <b>Formation :</b> Godot University | <b>Dossier source :</b> image_d_01
+</p>
+
+---
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="image_d_02/assets.gif" width="100%" alt="Étape 1">
+    </td>
+    <td>
+      <h3> Les assets : </h3>
+      <p>Ici Lukky (le présentateur) nous présente Trello. Il l’utilise pour s’organiser avec des cases : "à faire", "fait", "bloqué", etc., pour avoir les idées claires dans l’avancement du projet.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3> blender : </h3>
+      <p>Lukky survole Blender, un logiciel 3D pour créer ses assets. Ici, ce n’est pas un tuto (comme toute la vidéo en fait), il nous montre comment cela se passe pour créer des assets 3D.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/hwg.gif" width="100%" alt="Étape 2">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="image_d_02/player1.0.gif" width="100%" alt="Étape 3">
+    </td>
+    <td>
+      <h3>Godot : </h3>
+      <p>C’est ici qu’on entre dans le vif du sujet : Godot, un moteur de jeu pour débutant. Ici, on voit à quoi il ressemble, comment faire un menu, coder les éléments de jeu, créer l’environnement 3D, etc. En bref, ici on voit comment Godot est utilisé par les pros !</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/worldbuilding1.0.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/plateform.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/pickups.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/dying1.0.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/worldbuilding2.0.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/ennemy.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/player2.0.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/text.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/score.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/audio.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
+    </td>
+    <td width="50%">
+      <img src="image_d_02/export.gif" width="100%" alt="Étape 4">
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <a href="../README.md">
+    <img src="https://img.shields.io/badge/⬅️_REVENIR_AU_PORTEFOLIO-333333?style=for-the-badge" />
+  </a>
+</p>
