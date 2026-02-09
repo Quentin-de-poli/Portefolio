@@ -13,7 +13,7 @@
     </td>
     <td>
       <h3> Trello : </h3>
-      <p>Ici Lukky(le présentateur) nous présente Trello il l'utilise pour s'organiser avec des case : à faire, fait, bloqué, etc... pour avoir les idées claires dans l'avancement du projet.</p>
+      <p>Ici Lukky (le présentateur) nous présente Trello. Il l’utilise pour s’organiser avec des cases : "à faire", "fait", "bloqué", etc., pour avoir les idées claires dans l’avancement du projet.</p>
     </td>
   </tr>
 </table>
@@ -21,8 +21,8 @@
 <table>
   <tr>
     <td>
-      <h3> blender </h3>
-      <p>Lukky survole blender, un logiciel 3D pour créer ses assets, ici ce n'est pas un tuto ( comme toute la vidéo en fait) il nous montre comme cela se passe pour créer des assets 3D</p>
+      <h3> blender : </h3>
+      <p>Lukky survole Blender, un logiciel 3D pour créer ses assets. Ici, ce n’est pas un tuto (comme toute la vidéo en fait), il nous montre comment cela se passe pour créer des assets 3D.</p>
     </td>
     <td width="50%">
       <img src="GIF/blender.gif" width="100%" alt="Étape 2">
@@ -36,9 +36,8 @@
       <img src="GIF/godot.gif" width="100%" alt="Étape 3">
     </td>
     <td>
-      <h3>🛠️ 3. [Titre Étape 3]</h3>
-      <p><b>Ce que j'ai vu :</b> Détail sur l'implémentation.</p>
-      <p><b>Ce que j'ai appris :</b> Astuce ou résolution de bug.</p>
+      <h3>Godot : </h3>
+      <p>C’est ici qu’on entre dans le vif du sujet : Godot, un moteur de jeu pour débutant. Ici, on voit à quoi il ressemble, comment faire un menu, coder les éléments de jeu, créer l’environnement 3D, etc. En bref, ici on voit comment Godot est utilisé par les pros !</p>
     </td>
   </tr>
 </table>
@@ -46,9 +45,8 @@
 <table>
   <tr>
     <td>
-      <h3>✨ 4. [Titre Étape 4]</h3>
-      <p><b>Ce que j'ai vu :</b> Résultat final ou test en jeu.</p>
-      <p><b>Ce que j'ai appris :</b> Conclusion sur ce module.</p>
+      <h3>GDScript : </h3>
+      <p>La dernière partie de la vidéo nous montre comment coder sur Godot. Ce n'est pas du C++ ni du C#, mais du GDScript : assez facile d’utilisation, efficace et adapté aux débutants.</p>
     </td>
     <td width="50%">
       <img src="GIF/gdscript.gif" width="100%" alt="Étape 4">
@@ -59,10 +57,6 @@
 ---
 
 <p align="center">
-  <a href="URL_DU_TEST">
-    <img src="https://img.shields.io/badge/🎮_TESTER_LE_RÉSULTAT-FF8C00?style=for-the-badge" />
-  </a>
-  <br><br>
   <a href="../README.md">
     <img src="https://img.shields.io/badge/⬅️_REVENIR_AU_PORTEFOLIO-333333?style=for-the-badge" />
   </a>
