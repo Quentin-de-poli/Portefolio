@@ -51,7 +51,7 @@ Voici la playlist avec laquelle je me forme
         <p><b>Statut :</b></p>
         <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge" alt="Statut">
         <br>
-        <p><i>Dernière mise à jour : 06/02/2026</i></p>
+        <p><i>Dernière mise à jour : 09/02/2026</i></p>
       </td>
     </tr>
   </table>
