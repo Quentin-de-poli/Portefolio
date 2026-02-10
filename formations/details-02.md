@@ -194,7 +194,9 @@
    <img src="image_d_02/images/Capture d’écran 2026-02-10 094403.png" width="300" alt="CLiuqyez pour y jouer ;)">
 </a>
 </p>
-  
+
+<p align="center"> cliquez sur l'image pour jouer </p>
+
 <p align="center">
   <a href="../README.md">
     <img src="https://img.shields.io/badge/⬅️_REVENIR_AU_PORTEFOLIO-333333?style=for-the-badge" />
