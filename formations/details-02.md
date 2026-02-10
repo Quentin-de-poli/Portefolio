@@ -189,7 +189,11 @@
 ---
 <p align="center"> J'aimerais préciser tout de même que cette vidéo est ici à but démonstratif et qu'en aucun cas elle ne me permet de créer un jeu à moi seul ; je serais bloqué à des mécaniques de 1990. Cette vidéo nous familiarise avec l'utilisation de Godot et nous aide à en comprendre le vocabulaire. En plus, on obtient un petit jeu en récompense à la fin ! : </p>
 
-[Cliquez ici pour tester mon jeu :)](https://qv3ntln.itch.io/how-to-make-a-game-godot-tutorial?secret=pkFKMlByLCfjzqGm5taOR2wuNE)
+<p align="center">
+<a href="https://qv3ntln.itch.io/how-to-make-a-game-godot-tutorial">
+   <img src="image_d_02/images/Capture d’écran 2026-02-10 094403.png" width="300" alt="CLiuqyez pour y jouer ;)">
+</a>
+</p>
   
 <p align="center">
   <a href="../README.md">
