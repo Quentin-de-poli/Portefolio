@@ -2,8 +2,7 @@
 
 ### **Développeur débutant de jeux vidéo passionné par la création de nouvelles expériences.**
 
-Ce que j'aime dans cette création, c'est transformer mes idées (complexes ou pas) en code et d'essayer de nouvelles mécaniques. Quand je ne code pas, je joue aux jeux vidéo, je sors avec des potes, je regarde des films/séries... et souvent c'est ce qui m'inspire à vouloir créer, soit de rien, soit en mélangeant l'univers du jeu vidéo et mon expérience.
-
+Ce que j'aime dans la création, c'est transformer mes idées (complexes ou non) en code et expérimenter de nouvelles mécaniques. Quand je ne code pas, je joue aux jeux vidéo, je sors avec mes amis ou je regarde des films et des séries... C'est souvent ce qui m'inspire à vouloir créer, soit à partir de rien, soit en mélangeant l'univers du jeu vidéo avec mon expérience.
 ---
 
 ## Ma Boîte à Outils 
