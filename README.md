@@ -34,7 +34,7 @@ Voici la playlist avec laquelle je me forme
 
 
    <a href="/formations/liste-details.md">
-      <h1 align="center">
+      <p align="center">
       CLiquez ici si vous voulez voir ma progression sur chacune des vidéos de la playlist
-      </h1>
+      </p>
    </a>
