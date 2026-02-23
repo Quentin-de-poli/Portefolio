@@ -14,7 +14,7 @@
         <p><b>Statut :</b></p>
         <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge" alt="Statut">
         <br>
-        <p><i>Dernière mise à jour : 09/02/2026</i></p>
+        <p><i>Dernière maj des détails : 09/02/2026</i></p>
       </td>
     </tr>
   </table>
@@ -45,7 +45,7 @@
         <p><b>Statut :</b></p>
         <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge" alt="Statut">
         <br>
-        <p><i>Dernière mise à jour : 06/02/2026</i></p>
+        <p><i>Dernière maj des détails  : 06/02/2026</i></p>
       </td>
     </tr>
   </table>
@@ -76,13 +76,13 @@
         <p><b>Statut :</b></p>
         <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge" alt="Statut">
         <br>
-        <p><i>Dernière mise à jour : 06/02/2026</i></p>
+        <p><i>Dernière maj des détails  :</i></p>
       </td>
     </tr>
   </table>
 
   <p>
-    <b>Résumé :</b> Apprendre à se familiariser avec Godot et le vocabulaire de la programmation de jeux vidéo en créant un petit jeu de plateforme en 2D.
+    <b>Résumé :</b> 
   </p>
 
   <a href="details-03.md">
@@ -93,4 +93,646 @@
 
 
 <!--video 4 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=EP5AYllgHy8&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=4">
+          <img src="/image/g4.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails  :</i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-04.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+
+<!--video 5 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=nb6uSeEZFCI&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=5">
+          <img src="/image/g5.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails  :</i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-05.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+
+<!--video 6 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=A3HLeyaBCq4&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=6">
+          <img src="/image/g6.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-En cour-orange?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails  :</i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-06.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+
+<!--video 7 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=dV6S_11pyzo&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=7">
+          <img src="/image/g7.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-07.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 8 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=ExuzWQ077n4&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=8">
+          <img src="/image/g8.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-08.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 9 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=oqFbZoA2lnU&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=9">
+          <img src="/image/g9.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-09.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 10 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=bNdFXooM1MQ&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=10">
+          <img src="/image/g10.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-10.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 11 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=iV710Vm5qm0&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=11">
+          <img src="/image/g11.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-11.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 12 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=6bbPHsB9TtI&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=12">
+          <img src="/image/g12.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-12.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 13 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=tryYXX30FGg&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=13">
+          <img src="/image/g13.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-13.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 14 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=FgF3oFrAwUY&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=14">
+          <img src="/image/g14.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-14.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 15 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=RHcHMRUGDHU&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=15">
+          <img src="/image/g15.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-15.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 16 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=X3J0fSodKgs&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=16">
+          <img src="/image/g16.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-16.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 17 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=ZMbIvmv25u0&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=17">
+          <img src="/image/g17.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-17.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 18 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=8X4fx-YncqA&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=18">
+          <img src="/image/g18.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-18.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 19 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=udF7XX_vTUE&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=19">
+          <img src="/image/g19.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-19.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 20 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=S3cPJL4ISlU&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=20">
+          <img src="/image/g20.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-20.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 21 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=9bbhJi0NBkk&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=21">
+          <img src="/image/g21.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-21.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 22 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=hbzGO_Qonu0&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=22">
+          <img src="/image/g22.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-22.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
+<!--video 23 -->
+
+
+<div align="center">
+  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=216_5nu4aVQ&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=23">
+          <img src="/image/g23.webp" width="250" alt="Thumbnail">
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <p><b>Statut :</b></p>
+        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <br>
+        <p><i>Dernière maj des détails : </i></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <b>Résumé :</b> 
+  </p>
+
+  <a href="details-23.md">
+    <img src="https://img.shields.io/badge/Analyse_Technique-Lire_la_suite-blue?style=flat-square&logo=github" alt="Détails">
+  </a>
+</div>
+<hr>
+
 
