@@ -33,6 +33,6 @@ Voici la playlist avec laquelle je me forme
 <br>
 
 <p align="center">
-<a href="details-01.md">
+<a href="/formation/liste-detail.md">
    <h1>Voici donc ma progression sur chacune des vidéos de la playlist</h1>
 </a>
