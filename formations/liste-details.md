@@ -206,7 +206,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -238,7 +238,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -270,7 +270,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -302,7 +302,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -334,7 +334,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -366,7 +366,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -398,7 +398,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -430,7 +430,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -462,7 +462,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -494,7 +494,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -526,7 +526,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -558,7 +558,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -590,7 +590,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -622,7 +622,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -654,7 +654,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -686,7 +686,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
@@ -718,7 +718,7 @@
       </td>
       <td align="left" valign="middle">
         <p><b>Statut :</b></p>
-        <img src="https://img.shields.io/badge/Statut-pas commencé-red?style=for-the-badge" alt="Statut">
+        <img src="https://img.shields.io/badge/Statut-pas commencé-darkred?style=for-the-badge" alt="Statut">
         <br>
         <p><i>Dernière maj des détails : </i></p>
       </td>
