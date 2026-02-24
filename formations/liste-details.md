@@ -63,7 +63,7 @@
 <!--video 3 -->
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>How to program in Godot - GDScript Tutorial</h3>
 
   <table align="center">
     <tr>
@@ -82,7 +82,7 @@
   </table>
 
   <p>
-    <b>Résumé :</b> 
+    <b>Résumé : Une vidéo de 1h qui nous apprend les bases pour coder du GDScript </b> 
   </p>
 
   <a href="details-03.md">
@@ -96,7 +96,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Godot 4.0 Third Person Controller Tutorial ( 2023 )</h3>
 
   <table align="center">
     <tr>
@@ -115,7 +115,7 @@
   </table>
 
   <p>
-    <b>Résumé :</b> 
+    <b>Résumé :Apprendre à coder la base d'un gameplay première personne </b> 
   </p>
 
   <a href="details-04.md">
@@ -129,7 +129,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Import Animations in Godot 4 with Animation Retargeting</h3>
 
   <table align="center">
     <tr>
@@ -148,7 +148,7 @@
   </table>
 
   <p>
-    <b>Résumé :</b> 
+    <b>Résumé :importer un modèle 3D et l'adapter pour executer les animation correctement</b> 
   </p>
 
   <a href="details-05.md">
@@ -162,7 +162,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+      <h3>Juiced Up First Person Character Controller Tutorial - Godot 3D FPS</h3>
 
   <table align="center">
     <tr>
@@ -195,7 +195,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Design 3D Game Levels From Scratch - Godot 4 Tutorial</h3>
 
   <table align="center">
     <tr>
@@ -227,7 +227,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>The First Skill GODOT Beginners Should Learn - State Machine Game Showcase</h3>
 
   <table align="center">
     <tr>
@@ -259,7 +259,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Starter state machines in Godot 4</h3>
 
   <table align="center">
     <tr>
@@ -291,7 +291,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Advanced state machine techniques in Godot 4</h3>
 
   <table align="center">
     <tr>
@@ -323,7 +323,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>3D Enemies With Pathfinding and Animations - Godot 4 FPS Tutorial</h3>
 
   <table align="center">
     <tr>
@@ -355,7 +355,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Complete 3D Shooting Mechanics - Godot 4 FPS Tutorial</h3>
 
   <table align="center">
     <tr>
@@ -387,7 +387,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Hitscan Guns, Weapon Switching and Crosshairs - 3D Godot 4 FPS Tutorial</h3>
 
   <table align="center">
     <tr>
@@ -419,7 +419,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Fully Destructible 3D Environments - Godot 4 FPS Tutorial</h3>
 
   <table align="center">
     <tr>
@@ -451,7 +451,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Godot UI QUICKSTART (Ex-Unity friendly guide)</h3>
 
   <table align="center">
     <tr>
@@ -483,7 +483,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>How to Create a INVENTORY in Godot 4 (step by step)</h3>
 
   <table align="center">
     <tr>
@@ -515,7 +515,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>The mistake every new game developer makes (Developing 2)</h3>
 
   <table align="center">
     <tr>
@@ -547,7 +547,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>What Makes a Good Combat System?</h3>
 
   <table align="center">
     <tr>
@@ -579,7 +579,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Open World Design - How to Build Open World Games - Extra Credits</h3>
 
   <table align="center">
     <tr>
@@ -611,7 +611,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>How Small Open-World Games Feel Big</h3>
 
   <table align="center">
     <tr>
@@ -643,7 +643,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Qu'est-ce qui rend une IA bonne ? | Game Maker's Toolkit</h3>
 
   <table align="center">
     <tr>
@@ -675,7 +675,8 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>
+Comment garder les joueurs engagés (sans être méchant) | Game Maker's Toolkit </h3>
 
   <table align="center">
     <tr>
@@ -707,7 +708,7 @@
 
 
 <div align="center">
-  <h3>How to make a Video Game - Godot Beginner Tutorial</h3>
+  <h3>Secrets of Game Feel and Juice</h3>
 
   <table align="center">
     <tr>
