@@ -10,9 +10,9 @@ Ce que j'aime dans la création, c'est transformer mes idées (complexes ou non)
 | Secteur | Technologies |
 | --- | --- |
 | **Game Dev** | Godot, GDScript |
-| **Logic & Scripting** | Python |
+| **script** | Python |
 | **Développement Web** | HTML5, CSS3, JavaScript, JSON |
-| **Outils & Pipeline** | Git, VS Code |
+| **Outils** | Godot, VS Code, Git |
 
 ---
 
@@ -34,7 +34,7 @@ Voici la playlist avec laquelle je me forme
 
 
    <a href="/formations/liste-details.md">
-      <p align="center">
+       <p>
       CLiquez ici si vous voulez voir ma progression sur chacune des vidéos de la playlist
       </p>
    </a>
