@@ -34,11 +34,11 @@
             </tr>
             <tr>
                 <td><strong>Développement Web</strong></td>
-                <td>HTML5, CSS3, JavaScript, JSON</td>
+                <td>HTML5, CSS3, C#, JavaScript, JSON</td>
             </tr>
             <tr>
                 <td><strong>Outils</strong></td>
-                <td>Godot, VS Code, Git</td>
+                <td>Godot, VS Code, VS, Git</td>
             </tr>
         </tbody>
     </table>
