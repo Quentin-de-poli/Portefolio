@@ -1,10 +1,10 @@
 
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -16,7 +16,7 @@
         l'univers du jeu vidéo avec mon expérience.</p>
     <hr>
     <h2>Ma Boîte à Outils</h2>
-    <table border="1" cellspacing="0" cellpadding="8">
+    <table>
         <thead>
             <tr>
                 <th>Secteur</th>
@@ -26,7 +26,7 @@
         <tbody>
             <tr>
                 <td><strong>Game Dev</strong></td>
-                <td>Godot, GDScript</td>
+                <td>Godot, GDScript, C#</td>
             </tr>
             <tr>
                 <td><strong>Script</strong></td>
@@ -34,11 +34,11 @@
             </tr>
             <tr>
                 <td><strong>Développement Web</strong></td>
-                <td>HTML5, CSS3, JavaScript, JSON</td>
+                <td>HTML5, CSS3, C#, JavaScript, JSON</td>
             </tr>
             <tr>
                 <td><strong>Outils</strong></td>
-                <td>Godot, VS Code, Git</td>
+                <td>Godot, VS Code, VS, Git</td>
             </tr>
         </tbody>
     </table>
@@ -61,6 +61,13 @@
             Cliquez ici si vous voulez voir ma progression sur chacune des vidéos de la playlist
         </a>
     </p>
+        <h2>Mon Experience en temps que PlayTester !</h2>
+    <p>
+        En effet j'ai eu la chance de participer a un platest de <strong>Focus Entertainment</strong> : 
+        <a href=".\playtest\playtest.html">
+            Voici plus de details sur mon experience
+        </a>
+    </p>  
 </body>
 
 </html>
